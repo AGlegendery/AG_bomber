@@ -1,6 +1,6 @@
 # AG_bomber
 a sms bomber for iranian 
-# AG bomber
+
 ای جی بمبر 💣
 **یک اسمس بمبر رایگان برای ایرانیان**
 
@@ -52,6 +52,6 @@ a sms bomber for iranian
 ما را حمایت کنید 
 donate us 💕 
 ```bash
-6037997373890839
+6037997373890897
 ```
 Arash ghasem Abadi

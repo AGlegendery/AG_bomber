@@ -27,7 +27,7 @@ a sms bomber for iranian
 به فولدر پروژه بروید 📂
 
 ```bash
-  cd Iran-Bomber
+  cd AG_bomber
 ```
 
 پکیج ها را نصب کنید 🔻

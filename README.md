@@ -49,9 +49,3 @@ git clone https://github.com/AGlegendery/AG_bomber.git
 در صورتی که تمایل به استفاده از پروکسی دارید میتونید پروکسی های http تهیه کنید و یه فایل به اسم proxies.txt توی فولدر اصلی بسازید
 سورس کد به صورت خودکار ازش استفاده میکنه
 
-ما را حمایت کنید 
-donate us 💕 
-```bash
-6037997373890897
-```
-Arash ghasem Abadi

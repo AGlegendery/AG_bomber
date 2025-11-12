@@ -21,7 +21,7 @@ a sms bomber for iranian
 پروژه را کلون کنید 🔗
 
 ```bash
-  GIT CLONE https://github.com/AGlegendery/AG_bomber.git
+git clone https://github.com/AGlegendery/AG_bomber.git
 ```
 
 به فولدر پروژه بروید 📂
